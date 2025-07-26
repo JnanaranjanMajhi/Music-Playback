@@ -5,11 +5,11 @@
 
 // Define music file paths
 const char *music_files[] = {
-    "C:\\Users\\jnana\\OneDrive\\Desktop\\OS CASE STUDY\\MUSIC\\song1.mp3",
-    "C:\\Users\\jnana\\OneDrive\\Desktop\\OS CASE STUDY\\MUSIC\\song2.mp3",
-    "C:\\Users\\jnana\\OneDrive\\Desktop\\OS CASE STUDY\\MUSIC\\song3.mp3",
-    "C:\\Users\\jnana\\OneDrive\\Desktop\\OS CASE STUDY\\MUSIC\\song4.mp3",
-    "C:\\Users\\jnana\\OneDrive\\Desktop\\OS CASE STUDY\\MUSIC\\song5.mp3"
+    "song1.mp3",
+    "song2.mp3",
+    "song3.mp3",
+    "song4.mp3",
+    "song5.mp3"
 };
 
 // Define song titles
