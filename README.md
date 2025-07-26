@@ -18,7 +18,7 @@ A dynamic and interactive C-based music playback program built using multithread
 - **GCC / Clang** for compilation
 
 ## 📂 Project Structure
-
+```bash
 Music-Playback/
 ├── Makefile
 ├── README.md
@@ -26,7 +26,7 @@ Music-Playback/
 ├── music/ # Directory containing .mp3 or .wav files
 ├── include/ # Header files (optional)
 └── bin/ # Compiled output
-
+```
 
 ## 📦 Setup & Usage
 
@@ -62,4 +62,4 @@ sudo apt install mpg123
 - Command-line interface design
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License[License]
