@@ -46,7 +46,7 @@ make
 ```bash
 ./bin/player
 ```
-✅ Dependencies
+## ✅ Dependencies
 GCC or Clang
 POSIX-compatible OS (Linux, macOS)
 mpg123 or aplay for actual audio output (if using system call for playback)
@@ -55,11 +55,11 @@ You may install mpg123 using:
 sudo apt install mpg123
 ```
 
-🧠 Concepts Demonstrated
+## 🧠 Concepts Demonstrated
 - Thread synchronization using mutexes
 - File system navigation using opendir, readdir
 - Process control and signal handling
 - Command-line interface design
 
-📜 License
-This project is licensed under the MIT License (License)
+## 📜 License
+This project is licensed under the MIT [LICENSE](LICENSE)
